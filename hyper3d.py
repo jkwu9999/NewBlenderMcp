@@ -8,7 +8,7 @@ from ._hyper3d_full import (
     import_generated_asset_fal_ai,
 )
 
-RODIN_FREE_TRIAL_KEY = "k9TcfFoEhNd9cCPP2guHAHHHkctZHIRhZDywZ1euGUXwihbYLpOjQhofby80NJez"
+RODIN_FREE_TRIAL_KEY = ""
 
 def get_hyper3d_status():
     scene = bpy.context.scene
